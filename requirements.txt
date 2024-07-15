@@ -1,0 +1,14 @@
+tensorflow-gpu
+#tensorflow-gpu==1.2.0
+opencv-python
+ruamel.yaml
+numpy
+tqdm
+keras
+theano
+scikit-learn
+h5py
+#torch
+sparse
+scipy
+python-rapidjson
