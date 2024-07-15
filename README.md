@@ -19,3 +19,8 @@ Create train and validation (val) folders within /home/marc/UNetMLProject like t
 Place train_sharp and train_sharp_bicubic zip files in /home/(yourUSERNAMEhere)/UNetMLProject/train and then unzip those zip files in that directory
 Then place val_sharp and val_sharp_bicubic zip files in /home/(yourUSERNAMEhere)/UNetMLProject/val and then unzip those files in that directory as well.
 After updating the pathing for the given files and using the requirements.txt to install your requirements then run the model by running the 
+
+
+The same process of updating the links that path to your images.
+
+The breakdown of the code is included in my paper so if you need a breakdown of what does what the paper should be a guide to helping understand the code.
